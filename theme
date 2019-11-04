@@ -1,0 +1,58 @@
+! My theme (https://materialuicolors.co/  Level 500)
+#define M_red           #F44336
+#define M_pink          #E91E63
+#define M_purple        #9C27B0
+#define M_deep_purple   #673AB7
+#define M_indigo        #3F51B5
+#define M_blue          #2196F3
+#define M_light_blue    #03A9F4
+#define M_cyan          #00BCD4
+#define M_teal          #009688
+#define M_green         #4CAF50
+#define M_light_green   #8BC34A
+#define M_lime          #CDDC39
+#define M_yellow        #FFEB3B
+#define M_amber         #FFC107
+#define M_orange        #FF9800
+#define M_deep_orange   #FF5722
+#define M_brown         #795548
+#define M_grey          #9E9E9E
+
+! Blue grey (950 is modified from 900)
+#define M_950 #162228
+#define M_900 #263238
+#define M_800 #37474F
+#define M_700 #455A64
+#define M_600 #546E7A
+#define M_500 #607D8B
+#define M_400 #78909C
+#define M_300 #90A4AE
+#define M_200 #B0BEC5
+#define M_100 #CFD8DC
+#define M_50  #ECEFF1
+
+*background:              M_900
+*foreground:              M_200
+*fading:                  20
+*fadeColor:               M_950
+*cursorColor:             M_200
+*pointerColorBackground:  M_300
+*pointerColorForeground:  M_200
+
+*color0:                  M_700
+*color1:                  M_red
+*color2:                  M_green
+*color3:                  M_yellow
+*color4:                  M_blue
+*color5:                  M_pink
+*color6:                  M_cyan
+*color7:                  M_200
+
+*color9:                  M_orange
+*color8:                  M_100
+*color10:                 M_light_green
+*color11:                 M_500
+*color12:                 M_blue
+*color13:                 M_purple
+*color14:                 M_cyan
+*color15:                 M_50
